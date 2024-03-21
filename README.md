@@ -8,4 +8,4 @@ Check out some of my fav repos below, and view even more here: https://github.co
 
 Here's a picture of Gabe Newell #1 hero man
 
-<kbd>[![Gaben]([https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Gabe_newell.jpeg]]</kbd>
+<kbd>[![Gaben]([https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Gabe_newell.jpeg])]</kbd>
