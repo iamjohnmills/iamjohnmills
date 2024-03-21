@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Check out my journal here: [https://github.com/iamjohnmills/journal]
+Check out my journal here: https://github.com/iamjohnmills/journal
+
+Check out some of my fav repos below, and view even more here: https://github.com/iamjohnmills?tab=repositories&q=&type=source
 
 <!--
 **iamjohnmills/iamjohnmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
