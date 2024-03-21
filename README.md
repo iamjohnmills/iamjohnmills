@@ -11,5 +11,3 @@ Here are pics of my heros:
 <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Gabe_newell.jpeg" title="Gabe Newell #1 hero man" width="75" />
 
 <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/2ab2973ccdae292c39_Girard_006_KWC_foodfactory_001.jpeg" title="Kowloon City fish balls guy" width="200" />
-
-I will make updates if you personally email me and write a nice message.
