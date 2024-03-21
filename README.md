@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my journal here: [https://github.com/iamjohnmills/journal]
+
 <!--
 **iamjohnmills/iamjohnmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
