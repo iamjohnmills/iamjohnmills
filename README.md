@@ -8,4 +8,4 @@ I have two RSS feeds. Follow [here](https://iamjohnmills.github.io/journal/johnm
 
 Here are my heroes (the reason why might surprise you):
 
-<img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Gabe_newell.jpeg" height="80" /> <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/2ab2973ccdae292c39_Girard_006_KWC_foodfactory_001.jpeg" height="80" />
+<img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Gabe_newell.jpeg" height="80" /> <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/2ab2973ccdae292c39_Girard_006_KWC_foodfactory_001.jpeg" height="80" /> <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/Hank_Hill.png" height="80 /> <img src="https://raw.githubusercontent.com/iamjohnmills/iamjohnmills/main/voydoctor2000-2001409.jpg" height="80" />
