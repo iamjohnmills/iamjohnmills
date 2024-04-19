@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm John Mills, a professional frontend engineer in Milwaukee, WI. I'm currently developing next-generation experiences in the IT—Networking space at Allbridge.
+I'm John Mills, a professional frontend engineer in Milwaukee, WI.
+
+I'm currently developing next-generation experiences in the IT—Networking space at Allbridge.
 
 I like writing clean Javascript, making interesting visualizations, and learning new tech.
 
